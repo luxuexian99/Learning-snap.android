@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Learning-snap.android</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">欢迎使用该Demo!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_introduction">IntroductionActivity</string>
+    <string name="title_activity_introduction_animation">IntroductionAnimationActivity</string>
+    <string name="enter_start_text">进入系统</string>
+    <string name="introduction_text_xiexie">谢谢</string>
 </resources>
