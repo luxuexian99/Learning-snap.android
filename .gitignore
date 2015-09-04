@@ -1,7 +1,11 @@
 .gradle
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
 .DS_Store
 /build
 /captures
+
+# IDEA artifacts and output dirs
+*.iml
+*.ipr
+*.iws
+.idea
